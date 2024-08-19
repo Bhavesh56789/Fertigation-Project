@@ -97,7 +97,7 @@ class _SliderWidgetState extends ConsumerState<SliderWidget> {
                         child: MouseRegion(
                           cursor: SystemMouseCursors.resizeLeftRight,
                           child: SizedBox(
-                            width: 4,
+                            width: 6,
                             height: widget.height,
                           ),
                         ),
@@ -134,7 +134,7 @@ class _SliderWidgetState extends ConsumerState<SliderWidget> {
                         child: MouseRegion(
                           cursor: SystemMouseCursors.resizeLeftRight,
                           child: SizedBox(
-                            width: 4,
+                            width: 6,
                             height: widget.height,
                           ),
                         ),
