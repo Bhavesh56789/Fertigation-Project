@@ -1,0 +1,1 @@
+enum FertigationType { simultaneous, sequential }
